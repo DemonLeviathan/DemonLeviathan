@@ -10,10 +10,10 @@
 <hr>
 <div align="center">
   <a href="https://github.com/Chamsterr">
-    <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamsterr&layout=compact&theme=dark&langs_count=10" height="200px" />
+    <img align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamsterr&layout=compact&theme=dark&langs_count=10" height="180px" />
   </a>
   <a href="https://github.com/Chamsterr">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=chamsterr&theme=dark" height="200px"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=chamsterr&theme=dark" height="180px"/>
   </a>
 <div>
   <br><br><br><br><br><br><br><br>
