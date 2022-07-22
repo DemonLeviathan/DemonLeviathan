@@ -16,3 +16,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=chamsterr&theme=dark" height="165px"/>
   </a>
 <div>
+
+<p>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Chamsterr&theme=dark&hide_border=true"/>
+</p>
